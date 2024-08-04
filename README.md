@@ -1,8 +1,9 @@
-# My Website
+# Document Reader
 
 Welcome to My Website! This project showcases an interactive platform where users can easily drag and drop PDF files for processing. Built with HTML, CSS, and JavaScript (using jQuery and pdf.js), this application allows users to extract text from PDF documents seamlessly.
 
-![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/7777eb98-6581-41f6-9863-b5dfaade0471)
+
 
 ## Table of Contents
 
